@@ -1,0 +1,152 @@
+[
+  {
+    "productname": "CHARCOAL FISH FRY",
+    "price": "Rs: 480",
+    "image": "https://plus.unsplash.com/premium_photo-1693221704976-daf56fbce094?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "productname": "FISH BIRIYANI",
+    "price": "Rs: 600",
+    "image": "https://media.istockphoto.com/id/1334383300/photo/fish-biryani-spicy-and-delicious-malabar-biryani-or-hydrabadi-biryani-dum-biriyani.jpg?s=1024x1024&w=is&k=20&c=o739unUpIRddDYZ7hBoDafaBSEvVyTJPX6IUQGb7Fe4="
+  },
+  {
+    "productname": "INDIAN FISH CURRY",
+    "price": "Rs: 280",
+    "image": "https://media.istockphoto.com/id/1164276786/photo/indian-cuisine-spicy-fish-curry-in-sauce.jpg?s=1024x1024&w=is&k=20&c=YwYxBq7ZYw97EdeBUBWP-oeKQ_n_Iq64A4rkXj0VCfA="
+  },
+  {
+    "productname": "SPICY FISH CURRY",
+    "price": "Rs: 300",
+    "image": "https://media.istockphoto.com/id/1266092627/photo/spicy-fish-curry-popular-indian-seafood-served-with-rice.jpg?s=1024x1024&w=is&k=20&c=QIkegQ5zHnCq6H0ddUT4kwf0a7_0s_k_DEr-OA2Mf3s="
+  },
+  {
+    "productname": "FISH FRY",
+    "price": "Rs: 200",
+    "image": "https://media.istockphoto.com/id/1363859965/photo/fish-fry.jpg?s=1024x1024&w=is&k=20&c=rzTmKoTQkCZyZk7OF2zS1LOTHyQgjdz_h5yiVdoFLwk="
+  },
+  {
+    "productname": "GRILL FISH ",
+    "price": "Rs: 380",
+    "image": "https://media.istockphoto.com/id/1477217514/photo/image-of-chargrilled-marinated-red-snapper-restaurant-meal-lemon-slice-garnish-on-grilled.jpg?s=1024x1024&w=is&k=20&c=9CAB0lbQpXqzPd7M10gxhRicM5rvFurWskPMrSXIG0g="
+  },
+  {
+    "productname": "ROASTED FISH",
+    "price": "Rs: 350",
+    "image": "https://media.istockphoto.com/id/980462170/photo/roasted-sea-food.jpg?s=1024x1024&w=is&k=20&c=zvQGyMN3W6MR5Emv1w5dmTM0hHEPVjrrNOOm3Ed9iPM="
+  },
+  {
+    "productname": "FISH FRY",
+    "price": "Rs: 400",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXZAyF4dxCZWo5U1E6q3H1YJic9kvF2zmtJcKCuTKtzhZKmvC9bLotNi8jxbRfICooXo&usqp=CAU"
+  },
+  {
+    "productname": "COD",
+    "price": "Rs: 780",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/cod-1678301905.webp"
+  },
+  {
+    "productname": "HADDOCK",
+    "price": "Rs: 800",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/haddock-1678301905.webp"
+  },
+  {
+    "productname": "HAKE",
+    "price": "Rs: 300",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/hake-1678301905.webp"
+  },
+  {
+    "productname": "POLLOCK",
+    "price": "Rs: 200",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/pollock-1678301905.webp"
+  },
+  {
+    "productname": "TILAPIA",
+    "price": "Rs: 400",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/tilapia-1678301905.webp"
+  },
+  {
+    "productname": "FLOUNDER",
+    "price": "Rs: 280",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/flounder-1678301905.webp"
+  },
+  {
+    "productname": "SMELTS",
+    "price": "Rs: 420",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/smelts-1678301905.webp"
+  },
+  {
+    "productname": "SARDINES",
+    "price": "Rs: 300",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/sardines-1678301905.webp"
+  },
+  {
+    "productname": "BASS",
+    "price": "Rs: 500",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/bass-1678301905.webp"
+  },
+  {
+    "productname": "CAT FISH",
+    "price": "Rs: 700",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/catfish-1678301905.webp"
+  },
+  {
+    "productname": "TROUT",
+    "price": "Rs: 600",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/trout-1678301905.webp"
+  },
+  {
+    "productname": "PERCH",
+    "price": "Rs: 530",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/perch-1678301905.webp"
+  },
+  {
+    "productname": "RED SNAPPER",
+    "price": "Rs: 430",
+    "image": "https://www.tastingtable.com/img/gallery/13-best-types-of-fish-that-hold-up-well-to-frying/red-snapper-1678301905.webp"
+  },
+  {
+    "productname": "BAKING FISH",
+    "price": "Rs: 600",
+    "image": "https://www.tastingtable.com/img/gallery/x-different-ways-to-cook-fish/baking-is-a-super-healthy-cooking-method-1620147541.webp"
+  },
+  {
+    "productname": "BOILING FISH",
+    "price": "Rs: 720",
+    "image": "https://www.tastingtable.com/img/gallery/x-different-ways-to-cook-fish/broiling-is-another-healthy-option-1620147541.webp"
+  },
+  {
+    "productname": "STEAMING FISH",
+    "price": "Rs: 800",
+    "image": "https://www.tastingtable.com/img/gallery/x-different-ways-to-cook-fish/chinese-style-steamed-makes-for-a-stunning-presentation-1620147541.webp"
+  },
+  {
+    "productname": "SMOKING FISH",
+    "price": "Rs: 900",
+    "image": "https://www.tastingtable.com/img/gallery/x-different-ways-to-cook-fish/oven-smoking-your-fish-will-totally-up-your-dinner-game-1620147541.webp"
+  },
+  {
+    "productname": "POACHING FISH",
+    "price": "Rs: 620",
+    "image": "https://www.tastingtable.com/img/gallery/x-different-ways-to-cook-fish/poaching-is-a-hugely-underrated-way-to-cook-fish-1620147541.webp"
+  },
+  {
+    "productname": "STEAMING FISH",
+    "price": "Rs: 280",
+    "image": "https://www.tastingtable.com/img/gallery/x-different-ways-to-cook-fish/micro-steaming-works-better-than-you-might-think-1620147541.webp"
+  },
+  {
+    "productname": "SOUSH WIDE FISH",
+    "price": "Rs: 480",
+    "image": "https://www.tastingtable.com/img/gallery/x-different-ways-to-cook-fish/sous-vide-can-help-guarantee-perfect-fish-every-time-1620147541.webp"
+  },
+  {
+    "productname": "FRYING FISH",
+    "price": "Rs: 560",
+    "image": "https://www.tastingtable.com/img/gallery/x-different-ways-to-cook-fish/fried-delicious-but-not-the-best-1620147541.webp"
+  },
+  {
+    "productname": "AIR FRYING FISH",
+    "price": "Rs: 780",
+    "image": "https://www.tastingtable.com/img/gallery/x-different-ways-to-cook-fish/in-an-air-fryer-is-a-healthier-option-for-those-who-love-fried-fish-1620147541.webp"
+  }
+]
